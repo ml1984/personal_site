@@ -371,3 +371,34 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: rgba(255,255,255,.2);
 }
+.project {
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.project-image-box {
+    max-height: 20vh;
+    min-height: 200px;
+    width: 100%;
+}
+
+#rps {
+    background-image: url(../img/rps.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#order_app {
+    background-image: url(../img/order_app.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#ttt {
+    background-image: url(../img/Tic-Tac-Toe.png);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
